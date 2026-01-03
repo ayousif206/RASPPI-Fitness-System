@@ -9,7 +9,7 @@
 ## Features
 
 * **-**:
-    * **- Linking**: -
+    * **-**: -
     * **-**: -
 
 ## Prerequisites

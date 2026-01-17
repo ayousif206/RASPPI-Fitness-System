@@ -14,7 +14,7 @@ def startup(lockstart):
             pass
     if not os.path.exists("readme.txt"):
         with open("readme.txt", "w") as notefile:
-            notefile.write("pls save me")
+            notefile.write("Hello! The active tab for the Windows edition uses random numbers, it doesn't actually track your exercise because the original one was made for the Raspberry Pi.")
 try:
     import sys
     import os
